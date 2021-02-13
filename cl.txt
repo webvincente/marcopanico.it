@@ -6,3 +6,6 @@
 5) git log -> per vedere le modifiche
 6) git remote add origin https://github.com/webvincente/marcopanico.it.git
 7) git push -u origin master -> Stiamo portando su da locale al remoto
+8) git rm --cached -r . -> Annulla l'ultima modifica
+9) touch .gitignore
+10) open .gitignore
