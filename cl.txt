@@ -1,0 +1,7 @@
+1) git init
+2) git status
+3) git add $nomefile
+4) git commit -m "Messaggio"
+5) git log -> per vedere le modifiche
+6) git remote add origin https://github.com/webvincente/marcopanico.it.git
+7) git push -u origin master -> Stiamo portando su da locale al remoto
