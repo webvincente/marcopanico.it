@@ -1,6 +1,7 @@
 1) git init
 2) git status
-3) git add $nomefile
+3A) git add $nomefile
+3B) git add . -> aggiunge tutti i file del progetto
 4) git commit -m "Messaggio"
 5) git log -> per vedere le modifiche
 6) git remote add origin https://github.com/webvincente/marcopanico.it.git
